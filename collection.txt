@@ -1,0 +1,22 @@
+{
+  orderDate: new Date("2015-04-11"),
+  orderTotal: "100.00",
+  lineItems: [{unitPrice:"50.00", quantity: 2, productName: "beans"}]
+},
+{
+  orderDate: new Date("2015-06-03"),
+  orderTotal: "300.00",
+  lineItems: [{unitPrice: "25.00", quantity: 8, productName: "tortillas"},
+  {unitPrice: "25.00", quantity: 4, productName: "cheese"}]
+},
+{
+  orderDate: new Date("2016-04-20"),
+  orderTotal: "420.00",
+  lineItems: [{unitPrice: "20.00", quantity: 4, productName: "tortillas"},
+  {unitPrice: "20.00", quantity: 4, productName: "cheese"},
+  {unitPrice: "20.00", quantity: 4, productName: "doritos"},
+  {unitPrice: "20.00", quantity: 4, productName: "dew"},
+  {unitPrice: "20.00", quantity: 4, productName: "headshot"},
+  {unitPrice: "20.00", quantity: 1, productName: "dude"}
+  ]
+}
